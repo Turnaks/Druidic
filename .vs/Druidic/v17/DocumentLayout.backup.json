@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anwender\\Documents\\druidic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CB1C1E-8DEE-4574-B709-08E77ED6E700}|Druidic.csproj|c:\\users\\anwender\\documents\\druidic\\scripts\\cardslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CB1C1E-8DEE-4574-B709-08E77ED6E700}|Druidic.csproj|solutionrelative:scripts\\cardslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CB1C1E-8DEE-4574-B709-08E77ED6E700}|Druidic.csproj|c:\\users\\anwender\\documents\\druidic\\scripts\\focusobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CB1C1E-8DEE-4574-B709-08E77ED6E700}|Druidic.csproj|solutionrelative:scripts\\focusobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CB1C1E-8DEE-4574-B709-08E77ED6E700}|Druidic.csproj|c:\\users\\anwender\\documents\\druidic\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CB1C1E-8DEE-4574-B709-08E77ED6E700}|Druidic.csproj|solutionrelative:scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CB1C1E-8DEE-4574-B709-08E77ED6E700}|Druidic.csproj|c:\\users\\anwender\\documents\\druidic\\scripts\\aspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CB1C1E-8DEE-4574-B709-08E77ED6E700}|Druidic.csproj|solutionrelative:scripts\\aspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 133,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardSlot.cs",
+              "DocumentMoniker": "C:\\Users\\Anwender\\Documents\\druidic\\Scripts\\CardSlot.cs",
+              "RelativeDocumentMoniker": "Scripts\\CardSlot.cs",
+              "ToolTip": "C:\\Users\\Anwender\\Documents\\druidic\\Scripts\\CardSlot.cs",
+              "RelativeToolTip": "Scripts\\CardSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:43:45.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FocusObject.cs",
+              "DocumentMoniker": "C:\\Users\\Anwender\\Documents\\druidic\\Scripts\\FocusObject.cs",
+              "RelativeDocumentMoniker": "Scripts\\FocusObject.cs",
+              "ToolTip": "C:\\Users\\Anwender\\Documents\\druidic\\Scripts\\FocusObject.cs",
+              "RelativeToolTip": "Scripts\\FocusObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:32:51.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aspect.cs",
+              "DocumentMoniker": "C:\\Users\\Anwender\\Documents\\druidic\\Scripts\\Aspect.cs",
+              "RelativeDocumentMoniker": "Scripts\\Aspect.cs",
+              "ToolTip": "C:\\Users\\Anwender\\Documents\\druidic\\Scripts\\Aspect.cs",
+              "RelativeToolTip": "Scripts\\Aspect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T14:11:18.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Anwender\\Documents\\druidic\\Scripts\\Card.cs",
+              "RelativeDocumentMoniker": "Scripts\\Card.cs",
+              "ToolTip": "C:\\Users\\Anwender\\Documents\\druidic\\Scripts\\Card.cs",
+              "RelativeToolTip": "Scripts\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T14:10:22.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

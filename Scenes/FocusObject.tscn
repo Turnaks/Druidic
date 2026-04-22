@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://bgg5wuj7o1ox5"]
+
+[node name="FocusObject" type="Node2D" unique_id=445370920]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1030223435]
+
+[node name="CardSlotContainer" type="Control" parent="." unique_id=946628834]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="CardSlot" type="Button" parent="CardSlotContainer" unique_id=139984079]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0

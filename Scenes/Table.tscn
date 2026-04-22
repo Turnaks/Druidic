@@ -1,3 +1,9 @@
 [gd_scene format=3 uid="uid://bmjfho4friqdu"]
 
-[node name="Node2D" type="Node2D" unique_id=2033220319]
+[ext_resource type="Texture2D" uid="uid://cn86dwtp1krd6" path="res://Sprites/kenney_cartography-pack/Textures/parchmentBasic.png" id="1_5ervl"]
+
+[node name="Table" type="Node2D" unique_id=2033220319]
+
+[node name="TableSprite" type="Sprite2D" parent="." unique_id=345897724]
+position = Vector2(581, 316)
+texture = ExtResource("1_5ervl")
